@@ -40,20 +40,6 @@
 
 ---
 
-### 🚀 Ongoing Projects
-
-- 📱 My Web Portfolio New Version
-- 📊 Dashboard Monitoring with Power BI
-- 🤖 Brain Tumor Classification using SVM & CLIP
-- 📝 Final Report (KP + TA)
-
-```text
-💡 Learning:
-Python ██████████░░░░░░ 60%
-Figma  ███████████████░ 90%
-SQL    ████████████░░░░ 80%
-ML     ███████░░░░░░░░░ 45%
-```
 ## 📈 GitHub Stats
 
 <p align="center">
