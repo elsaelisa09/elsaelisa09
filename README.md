@@ -1,68 +1,55 @@
-# 👋 Hi, I'm Elsa Elisa Yohana Sianturi!
+<h1 align="center">Hi there, I'm Elsa 👋</h1>
 
-🎓 6th Semester Informatics Engineering Student at [Institut Teknologi Sumatera (ITERA)](https://www.itera.ac.id/)  
-📊 Data Analyst & 🎨 UI/UX Designer  
-💡 Passionate about turning data into insights & designing meaningful digital experiences  
-🌱 Currently exploring: Data Visualization, Dashboarding, and Human-Centered Design
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+UI%2FUX+Designer;Informatics+Student+%7C+ITERA;Love+Designing+and+Decoding+Patterns" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" />
+</p>
 
 ---
 
-## 🔧 Frequently Used Tools
+### 🌟 About Me
 
+🎓 Sixth Semester Student at **Institut Teknologi Sumatera (ITERA)**  
+📊 Data Analyst | 🎨 UI/UX Designer  
+🌱 Currently learning **Data Visualization**, **Human-Centered Design**, and **ML for insights**  
+💬 I love translating complex data into simple visual stories  
+🎯 Goal: To build impactful & user-friendly digital products
+
+> 🧠 *"Design is not just what it looks like and feels like. Design is how it works."* – Steve Jobs
+
+---
+
+### 🔧 Tools & Tech I Use
+
+**Data & Analytics:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![SQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+
+**UI/UX & Prototyping:**  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+
+**Web (Basic):**  
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ---
 
-## 🎨 UI/UX Tools
+### 🚀 Ongoing Projects
 
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat&logo=adobexd&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+- 📱 My Web Portfolio New Version
+- 📊 Dashboard Monitoring with Power BI
+- 🤖 Brain Tumor Classification using SVM & CLIP
+- 📝 Final Report (KP + TA)
 
----
-
-## 💼 Currently Working On
-
-- 📊 Final project related to **Data Analysis** and **Mobile App Design**
-- 💻 Data storytelling & dashboard creation using **Tableau & Power BI**
-- 🧠 Exploring **Machine Learning** for insights generation
-- ✨ Prototyping interfaces for better user experience in mobile & web apps
-
----
-
-## 📫 Let's Connect!
-
-[![LinkedIn](https://www.linkedin.com/in/elsa-elisa-yohana-sianturi-054668287/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com)
-[![Portfolio](https://my-website-gray-nine.vercel.app/)
-
----
-
-## 📈 GitHub Stats
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elsaelisa09&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsaelisa09&layout=compact&theme=radical" />
-</p>
-
-<!--
-**elsaelisa09/elsaelisa09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+💡 Learning:
+Python ██████████░░░░░░ 60%
+Figma  ███████████████░ 90%
+SQL    ████████████░░░░ 80%
+ML     ███████░░░░░░░░░ 45%
