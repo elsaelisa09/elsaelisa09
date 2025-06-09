@@ -70,12 +70,4 @@ ML     ███████░░░░░░░░░ 45%
   <a href="https://instagram.com/atfive_pm">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
-  <a href=https://my-website-gray-nine.vercel.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=notion&logoColor=white" />
-  </a>
 </p>
-
-## 🐾 Fun Fact
-
-> I combine **analytical thinking** with **creative storytelling** ✨  
-> Data tells the truth, and design helps it speak clearly.
