@@ -53,3 +53,29 @@ Python ██████████░░░░░░ 60%
 Figma  ███████████████░ 90%
 SQL    ████████████░░░░ 80%
 ML     ███████░░░░░░░░░ 45%
+```
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elsaelisayohana09&show_icons=true&theme=radical" alt="Elsa's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsaelisayohana09&layout=compact&theme=radical" alt="Elsa's Top Languages"/>
+</p>
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/elsa-elisa-yohana-sianturi-054668287/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/atfive_pm">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+  </a>
+  <a href=https://my-website-gray-nine.vercel.app/">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=notion&logoColor=white" />
+  </a>
+</p>
+
+## 🐾 Fun Fact
+
+> I combine **analytical thinking** with **creative storytelling** ✨  
+> Data tells the truth, and design helps it speak clearly.
