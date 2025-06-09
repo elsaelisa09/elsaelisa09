@@ -57,8 +57,8 @@ ML     ███████░░░░░░░░░ 45%
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elsaelisayohana09&show_icons=true&theme=radical" alt="Elsa's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsaelisayohana09&layout=compact&theme=radical" alt="Elsa's Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elsaelisa09&show_icons=true&theme=radical" alt="Elsa's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsaelisa09&layout=compact&theme=radical" alt="Elsa's Top Languages"/>
 </p>
 
 ## 📫 Connect With Me
