@@ -14,7 +14,7 @@
 
 - :school: I am an `8th Semester Student` at [Institut Teknologi Sumatera (ITERA)](https://www.itera.ac.id/), majoring in `Informatics Engineering`.
 - :trophy: `2nd Place Winner` UI/UX Design Point Project 3.0 by HMIF ITERA.
-- :medal_military: `Awardee` of Sobat Bumi Scholarshis 2024 by Pertamina.
+- :medal_military: `Awardee` of Sobat Bumi Scholarshis 2024 - Pertamina.
 - :bar_chart: Passionate about `Data Analytics`, `AI Engineering`, `Computter Vision` and `UI/UX Design`.
 - :computer: I love transforming complex data into simple, beautiful, and actionable visual stories.
 - :student: I'm currently learning `Deep Learning` and `Computer Vision`.
